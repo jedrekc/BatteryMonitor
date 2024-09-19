@@ -6,6 +6,7 @@ W planie zasilaniamożna wprawdzieustawić ostrzeżenie przy wyższym stanie bat
 ale po wyłączeniu go już się nie pojawia aż do osiągnięcia stanu krytycznego.
 
 Chcę uzyskać następujące funkcjonalności:
-- First item
-- Second item
-- Third item
+- Odczyt i zapis parametrów wywołania prohgramu
+- Kompilacja programu jako usługi Windows 
+- Konfigurajca:
+  -   
