@@ -8,8 +8,8 @@ ale po wyłączeniu go już się nie pojawia aż do osiągnięcia stanu krytyczn
 Chcę uzyskać następujące funkcjonalności:
 
 - Kompilacja programu jako usługi Windows 
-- Konfigurajca:
+- Konfiguracja:
   -   poziom ostrzegawczy baterii, przy którym będzie sie wyświetlać ostrzeżenie
   -   częstotliowość sprawdzania stanu baterii
-  -   odczyt i zapis konfigueracji
-  -   ostrzeżenie jako komuikat w okienku Windows
+  -   odczyt i zapis konfiguracji
+- Ostrzeżenie jako komunikat w okienku Windows
