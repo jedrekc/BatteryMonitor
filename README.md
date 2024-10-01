@@ -7,7 +7,7 @@ ale po wyłączeniu go już się nie pojawia aż do osiągnięcia stanu krytyczn
 
 Chcę uzyskać następujące funkcjonalności:
 
-- Kompilacja programu jako usługi Windows 
+- Program działa jako usługa Windows 
 - Konfiguracja:
   -   poziom ostrzegawczy baterii, przy którym będzie sie wyświetlać ostrzeżenie
   -   częstotliowość sprawdzania stanu baterii
